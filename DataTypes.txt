@@ -1,0 +1,4 @@
+Data Types are divided into two groups
+
+Primitive data types - byte, short, int, long, float, double, boolean and char
+Non-Primitive data types - String, Arrays and Classes
